@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Sreerag Chandrasekharan
+# Hi, I'm Sreerag Chandrasekharan
 I'm passionate about using AI to improve healthcare. I hold a Master's in Biomedical Engineering from Hochschule Furtwangen and have hands-on experience in machine learning, image processing, and clinical engineering.
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 
 **Languages**: Python, C++, MATLAB  
 **Libraries**: PyTorch, TensorFlow, OpenCV  
@@ -11,14 +11,14 @@ I'm passionate about using AI to improve healthcare. I hold a Master's in Biomed
 
 ---
 
-## 📂 Projects
+## Projects
 
 - Emotion Recognition with Deep Learning  
 - Cardio-vascular-disease-detection-using-Random-Forest-and-XGBoost
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Email**: sreerag7chandrasekharan@gmail.com  
 **LinkedIn**: [linkedin.com/in/sreeragchandrasekharan](https://linkedin.com/in/sreeragchandrasekharan)
