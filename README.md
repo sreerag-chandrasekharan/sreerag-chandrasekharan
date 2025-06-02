@@ -21,6 +21,6 @@ I'm passionate about using AI to improve healthcare. I hold a Master's in Biomed
 ## Contact
 
 **Email**: sreerag7chandrasekharan@gmail.com  
-**LinkedIn**: [linkedin.com/in/sreeragchandrasekharan]([www.linkedin.com/in/](https://linkedin.com/in/sreerag-chandrasekharan)
+**LinkedIn**: [linkedin.com/in/sreeragchandrasekharan](https://linkedin.com/in/sreerag-chandrasekharan)
 
 ---
