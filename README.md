@@ -13,8 +13,8 @@ I'm passionate about using AI to improve healthcare. I hold a Master's in Biomed
 
 ## 📂 Projects
 
-- 🧠 Emotion Recognition with Deep Learning  
-- 🏥 Patient Data Analysis  
+- Emotion Recognition with Deep Learning  
+- Cardio-vascular-disease-detection-using-Random-Forest-and-XGBoost
 
 ---
 
