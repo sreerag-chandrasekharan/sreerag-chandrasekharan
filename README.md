@@ -1,9 +1,33 @@
-- 👋 Hi, I’m @sreerag-chandrasekharan
-- 👀 I’m interested in AI and Biology
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Healthcare
+# 👋 Hi, I'm Sreerag Chandrasekharan
 
-<!---
-sreerag-chandrasekharan/sreerag-chandrasekharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Biomedical Engineer | 🤖 Machine Learning Enthusiast  
+
+---
+
+## 🚀 About Me
+
+I'm passionate about using AI to improve healthcare. I hold a Master's in Biomedical Engineering from Hochschule Furtwangen and have hands-on experience in machine learning, image processing, and clinical engineering.
+
+---
+
+## 🛠 Skills & Tools
+
+**Languages**: Python, C++, MATLAB  
+**Libraries**: PyTorch, TensorFlow, OpenCV  
+**Tools**: Git, Jupyter, Linux, Docker
+
+---
+
+## 📂 Projects
+
+- 🧠 Emotion Recognition with Deep Learning  
+- 🏥 Patient Data Analysis  
+
+---
+
+## 📫 Contact
+
+**Email**: sreerag7chandrasekharan@gmail.com  
+**LinkedIn**: [linkedin.com/in/sreeragchandrasekharan](https://linkedin.com/in/sreeragchandrasekharan)
+
+---
