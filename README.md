@@ -1,11 +1,4 @@
 # 👋 Hi, I'm Sreerag Chandrasekharan
-
-🎓 Biomedical Engineer | 🤖 Machine Learning Enthusiast  
-
----
-
-## 🚀 About Me
-
 I'm passionate about using AI to improve healthcare. I hold a Master's in Biomedical Engineering from Hochschule Furtwangen and have hands-on experience in machine learning, image processing, and clinical engineering.
 
 ---
