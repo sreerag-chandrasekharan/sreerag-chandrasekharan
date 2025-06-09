@@ -5,7 +5,7 @@ I'm passionate about using AI to improve healthcare. I hold a Master's in Biomed
 
 ## Skills & Tools
 
-**Languages**: Python, C++, MATLAB
+**Languages**: Python, C++, MATLAB  
 **Libraries**: PyTorch, TensorFlow  
 **Tools**: Git, Jupyter, Linux
 
