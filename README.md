@@ -4,23 +4,19 @@ I'm passionate about using AI to improve healthcare. I hold a Master's in Biomed
 ---
 
 ## Skills & Tools
+## 🛠️ Skills
 
-**Languages**: Python, C++, MATLAB  
-**Libraries**: PyTorch, TensorFlow  
-**Tools**: Git, Jupyter, Linux
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
----
+### Libraries  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## Projects
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Emotion Recognition with Deep Learning  
-- Cardio-vascular-disease-detection-using-Random-Forest-and-XGBoost
-
----
-
-## Contact
-
-**Email**: sreerag7chandrasekharan@gmail.com  
-**LinkedIn**: [linkedin.com/in/sreeragchandrasekharan](https://linkedin.com/in/sreerag-chandrasekharan)
-
----
