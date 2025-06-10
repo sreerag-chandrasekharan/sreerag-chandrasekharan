@@ -3,9 +3,9 @@ I'm passionate about using AI to improve healthcare. I hold a Master's in Biomed
 
 ### Skills & Tools
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+
+<div style="flex: 1; min-width: 250px;">
 
 #### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
@@ -17,8 +17,9 @@ I'm passionate about using AI to improve healthcare. I hold a Master's in Biomed
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
 
-    </td>
-    <td>
+</div>
+
+<div style="flex: 1; min-width: 250px;">
 
 #### Development Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
@@ -30,6 +31,6 @@ I'm passionate about using AI to improve healthcare. I hold a Master's in Biomed
 ![LTspice](https://img.shields.io/badge/LTspice-008080?style=flat-square&logoColor=white)  
 ![Code Composer Studio](https://img.shields.io/badge/Code_Composer_Studio-000000?style=flat-square&logo=Texas-Instruments&logoColor=white)  
 
-    </td>
-  </tr>
-</table>
+</div>
+
+</div>
